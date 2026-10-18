@@ -50,3 +50,11 @@
   <img src="https://img.shields.io/badge/Docker-987AA8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-D096AA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## Contribution activity
+
+<p align="center">
+  <a href="https://github.com/dlkakbs?tab=overview">
+    <img src="./assets/contribution-activity.svg" width="100%" alt="Dilek's GitHub contribution activity" />
+  </a>
+</p>
