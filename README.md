@@ -15,12 +15,12 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/dlkakbs/FlowPay"><img src="./assets/cards/flowpay.svg" width="100%" alt="FlowPay" /></a></td>
-    <td width="50%"><a href="https://github.com/dlkakbs/biomed-research-engine"><img src="./assets/cards/veliora.svg" width="100%" alt="Veliora" /></a></td>
+    <td width="50%"><a href="https://github.com/dlkakbs/FlowPay"><img src="./assets/cards/flowpay.svg?v=2" width="100%" alt="FlowPay" /></a></td>
+    <td width="50%"><a href="https://github.com/dlkakbs/biomed-research-engine"><img src="./assets/cards/veliora.svg?v=2" width="100%" alt="Veliora" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/dlkakbs/twin-workspace"><img src="./assets/cards/twin-workspace.svg" width="100%" alt="Twin Workspace" /></a></td>
-    <td width="50%"><a href="https://github.com/dlkakbs/proofpacket"><img src="./assets/cards/proofpacket.svg" width="100%" alt="ProofPacket" /></a></td>
+    <td width="50%"><a href="https://github.com/dlkakbs/twin-workspace"><img src="./assets/cards/twin-workspace.svg?v=2" width="100%" alt="Twin Workspace" /></a></td>
+    <td width="50%"><a href="https://github.com/dlkakbs/proofpacket"><img src="./assets/cards/proofpacket.svg?v=2" width="100%" alt="ProofPacket" /></a></td>
   </tr>
 </table>
 
@@ -28,12 +28,12 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/NousResearch/hermes-agent"><img src="./assets/cards/hermes-agent.svg" width="100%" alt="Nous Research Hermes Agent" /></a></td>
-    <td width="50%"><a href="https://github.com/FhenixProtocol/cofhesdk"><img src="./assets/cards/cofhesdk.svg" width="100%" alt="Fhenix CoFHE SDK" /></a></td>
+    <td width="50%"><a href="https://github.com/NousResearch/hermes-agent"><img src="./assets/cards/hermes-agent.svg?v=2" width="100%" alt="Nous Research Hermes Agent" /></a></td>
+    <td width="50%"><a href="https://github.com/FhenixProtocol/cofhesdk"><img src="./assets/cards/cofhesdk.svg?v=2" width="100%" alt="Fhenix CoFHE SDK" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/0xMiden/web-sdk"><img src="./assets/cards/miden-web-sdk.svg" width="100%" alt="Miden Web SDK" /></a></td>
-    <td width="50%"><a href="https://github.com/ProjectOpenSea/seaport-js"><img src="./assets/cards/seaport-js.svg" width="100%" alt="OpenSea Seaport.js" /></a></td>
+    <td width="50%"><a href="https://github.com/0xMiden/web-sdk"><img src="./assets/cards/miden-web-sdk.svg?v=2" width="100%" alt="Miden Web SDK" /></a></td>
+    <td width="50%"><a href="https://github.com/ProjectOpenSea/seaport-js"><img src="./assets/cards/seaport-js.svg?v=2" width="100%" alt="OpenSea Seaport.js" /></a></td>
   </tr>
 </table>
 
