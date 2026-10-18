@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Next.js-6F506B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-A16F8B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-987AA8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-D096AA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 
