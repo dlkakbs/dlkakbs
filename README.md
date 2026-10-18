@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png?v=3" width="100%" alt="Dilek — builder and open source contributor" />
+  <img src="./assets/banner.png?v=4" width="100%" alt="Dilek — independent builds and open source contributions" />
 </p>
 
 <p align="center">
