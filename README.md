@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Git-D096AA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Contribution activity
+
 
 <p align="center">
   <a href="https://github.com/dlkakbs?tab=overview">
