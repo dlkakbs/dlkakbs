@@ -11,8 +11,9 @@
   <rect x="36" y="28" width="150" height="27" rx="13.5" fill="#B98298" fill-opacity="0.13" />
   <text x="111" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.7" fill="#B98298">0xMIDEN</text>
   <text x="36" y="98" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#463544">Miden Web SDK</text>
-  <text x="36" y="139" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6F596A">WASM client, React hooks, and tools</text>
-  <text x="36" y="166" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6F596A">for building on Miden from the web.</text>
-  <path d="M36 190H180" stroke="#B98298" stroke-width="3" stroke-linecap="round" />
-  <circle cx="194" cy="190" r="4" fill="#B98298" />
+  <text x="36" y="132" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">2 merged pull requests</text>
+  <text x="36" y="157" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">Relative Vite root handling</text>
+  <text x="36" y="182" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">and stale signer account-state fixes</text>
+  <path d="M36 201H180" stroke="#B98298" stroke-width="3" stroke-linecap="round" />
+  <circle cx="194" cy="201" r="4" fill="#B98298" />
 </svg>
