@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png?v=2" width="100%" alt="Dilek — AI agents, open source, blockchain" />
+  <img src="./assets/banner.png?v=3" width="100%" alt="Dilek — builder and open source contributor" />
 </p>
 
 <p align="center">
