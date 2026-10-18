@@ -50,9 +50,3 @@
   <img src="https://img.shields.io/badge/Docker-987AA8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-D096AA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlkakbs&bg_color=fff8fb&color=6f506b&line=b98298&point=8d6aa9&area=true&hide_border=true&radius=12" width="100%" alt="Dilek's GitHub activity graph" />
-</p>
