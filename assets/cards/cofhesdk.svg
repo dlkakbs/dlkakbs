@@ -8,11 +8,11 @@
   </defs>
   <rect x="1" y="1" width="638" height="218" rx="24" fill="url(#bg)" stroke="#DABBCD" stroke-width="2" />
   <circle cx="570" cy="30" r="90" fill="#DDD0F0" fill-opacity="0.58" filter="url(#soft)" />
-  <rect x="36" y="24" width="190" height="32" rx="16" fill="#8D6AA9" fill-opacity="0.13" />
-  <text x="131" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5" fill="#8D6AA9">FHENIX</text>
+  <rect x="36" y="24" width="190" height="32" rx="16" fill="#B98298" fill-opacity="0.13" />
+  <text x="131" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5" fill="#B98298">FHENIX</text>
   <text x="36" y="104" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#463544">CoFHE SDK</text>
   <text x="36" y="148" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" fill="#6F596A">4 merged PRs · 4 commits</text>
   <text x="36" y="182" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" fill="#6F596A">Top-10 contributor by commit count</text>
-  <path d="M36 205H180" stroke="#8D6AA9" stroke-width="3" stroke-linecap="round" />
-  <circle cx="194" cy="205" r="4" fill="#8D6AA9" />
+  <path d="M36 205H180" stroke="#B98298" stroke-width="3" stroke-linecap="round" />
+  <circle cx="194" cy="205" r="4" fill="#B98298" />
 </svg>
