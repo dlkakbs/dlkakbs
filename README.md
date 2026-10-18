@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://x.com/shela_tw"><img src="https://img.shields.io/badge/@shela__tw-B98298?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/dlkakbs?tab=followers"><img src="https://img.shields.io/badge/Follow-8D6AA9?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/dlkakbs"><img src="https://img.shields.io/badge/@dlkakbs-8D6AA9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: @dlkakbs" /></a>
+  <a href="https://t.me/dlkakbs"><img src="https://img.shields.io/badge/@dlkakbs-C58BAA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @dlkakbs" /></a>
+  <img src="https://img.shields.io/badge/dlkakbs-A77C9A?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: dlkakbs" />
 </p>
 
 ## Selected builds
