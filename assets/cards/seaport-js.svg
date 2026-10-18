@@ -11,9 +11,9 @@
   <rect x="36" y="28" width="150" height="27" rx="13.5" fill="#8D6AA9" fill-opacity="0.13" />
   <text x="111" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.7" fill="#8D6AA9">OPENSEA</text>
   <text x="36" y="98" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#463544">Seaport.js</text>
-  <text x="36" y="132" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">Upstream-merged ERC721 criteria</text>
-  <text x="36" y="157" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">exact-approval correctness fix</text>
-  <text x="36" y="182" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6F596A">Co-author credit preserved in final merge</text>
+  <text x="36" y="132" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6F596A">Upstream-merged ERC721 criteria</text>
+  <text x="36" y="157" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6F596A">exact-approval correctness fix</text>
+  <text x="36" y="182" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6F596A">Co-author credit preserved in final merge</text>
   <path d="M36 201H180" stroke="#8D6AA9" stroke-width="3" stroke-linecap="round" />
   <circle cx="194" cy="201" r="4" fill="#8D6AA9" />
 </svg>
