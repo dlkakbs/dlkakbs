@@ -60,7 +60,7 @@ const cards = [
     file: "cofhesdk.svg",
     title: "CoFHE SDK",
     label: "FHENIX",
-    lines: ["Developer tooling for encrypted", "onchain computation with FHE."],
+    lines: ["6 merged PRs across React, ABI, and CI.", "Cache identity, chain guards, and tooling."],
   },
   {
     file: "miden-web-sdk.svg",
