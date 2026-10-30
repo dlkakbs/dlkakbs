@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/NousResearch/hermes-agent"><img src="./assets/cards/hermes-agent.svg?v=6" width="100%" alt="Nous Research Hermes Agent" /></a></td>
-    <td width="50%"><a href="https://github.com/FhenixProtocol/cofhesdk"><img src="./assets/cards/cofhesdk.svg?v=7" width="100%" alt="Fhenix CoFHE SDK" /></a></td>
+    <td width="50%"><a href="https://github.com/FhenixProtocol/cofhesdk"><img src="./assets/cards/cofhesdk.svg?v=8" width="100%" alt="Fhenix CoFHE SDK" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/0xMiden/web-sdk"><img src="./assets/cards/miden-web-sdk.svg?v=6" width="100%" alt="Miden Web SDK" /></a></td>

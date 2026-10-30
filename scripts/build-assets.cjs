@@ -60,7 +60,7 @@ const cards = [
     file: "cofhesdk.svg",
     title: "CoFHE SDK",
     label: "FHENIX",
-    lines: ["6 merged pull requests", "React, ABI + CI improvements"],
+    lines: ["7 merged pull requests", "React, ABI + CI improvements"],
   },
   {
     file: "miden-web-sdk.svg",
