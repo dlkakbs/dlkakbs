@@ -411,9 +411,10 @@
     <rect x="983" y="244" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="1000" y="244" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="1017" y="244" width="13" height="13" rx="3" fill="#E9C5D5" />
+    <rect x="1034" y="244" width="13" height="13" rx="3" fill="#F4E8EF" />
   </g>
 
-  <text x="48" y="288" class="subtitle">62 active days · updated Nov 6, 2026</text>
+  <text x="48" y="288" class="subtitle">62 active days · updated Nov 7, 2026</text>
   <g transform="translate(932 278)">
     <text x="0" y="11" class="legend">Less</text>
     <rect x="38" y="0" width="13" height="13" rx="3" fill="#F4E8EF" />
