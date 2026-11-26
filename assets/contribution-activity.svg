@@ -84,11 +84,11 @@
     <rect x="830" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="847" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="864" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="881" y="142" width="13" height="13" rx="3" fill="#D39AB3" />
+    <rect x="881" y="142" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="898" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="915" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="932" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="949" y="142" width="13" height="13" rx="3" fill="#8D6AA9" />
+    <rect x="949" y="142" width="13" height="13" rx="3" fill="#B98298" />
     <rect x="966" y="142" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="983" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="1000" y="142" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -109,11 +109,11 @@
     <rect x="354" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="371" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="388" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="405" y="159" width="13" height="13" rx="3" fill="#D39AB3" />
+    <rect x="405" y="159" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="422" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="439" y="159" width="13" height="13" rx="3" fill="#E9C5D5" />
-    <rect x="456" y="159" width="13" height="13" rx="3" fill="#B98298" />
-    <rect x="473" y="159" width="13" height="13" rx="3" fill="#D39AB3" />
+    <rect x="456" y="159" width="13" height="13" rx="3" fill="#D39AB3" />
+    <rect x="473" y="159" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="490" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="507" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="524" y="159" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -165,7 +165,7 @@
     <rect x="405" y="176" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="422" y="176" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="439" y="176" width="13" height="13" rx="3" fill="#D39AB3" />
-    <rect x="456" y="176" width="13" height="13" rx="3" fill="#B98298" />
+    <rect x="456" y="176" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="473" y="176" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="490" y="176" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="507" y="176" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -218,7 +218,7 @@
     <rect x="405" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="422" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="439" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
-    <rect x="456" y="193" width="13" height="13" rx="3" fill="#B98298" />
+    <rect x="456" y="193" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="473" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="490" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="507" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
@@ -246,7 +246,7 @@
     <rect x="881" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="898" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="915" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="932" y="193" width="13" height="13" rx="3" fill="#D39AB3" />
+    <rect x="932" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="949" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="966" y="193" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="983" y="193" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -276,7 +276,7 @@
     <rect x="490" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="507" y="210" width="13" height="13" rx="3" fill="#8D6AA9" />
     <rect x="524" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="541" y="210" width="13" height="13" rx="3" fill="#B98298" />
+    <rect x="541" y="210" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="558" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="575" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="592" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -305,6 +305,7 @@
     <rect x="983" y="210" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="1000" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="1017" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
+    <rect x="1034" y="210" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="150" y="227" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="167" y="227" width="13" height="13" rx="3" fill="#F4E8EF" />
     <rect x="184" y="227" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -326,7 +327,7 @@
     <rect x="456" y="227" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="473" y="227" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="490" y="227" width="13" height="13" rx="3" fill="#F4E8EF" />
-    <rect x="507" y="227" width="13" height="13" rx="3" fill="#B98298" />
+    <rect x="507" y="227" width="13" height="13" rx="3" fill="#D39AB3" />
     <rect x="524" y="227" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="541" y="227" width="13" height="13" rx="3" fill="#E9C5D5" />
     <rect x="558" y="227" width="13" height="13" rx="3" fill="#F4E8EF" />
@@ -411,7 +412,7 @@
     <rect x="1017" y="244" width="13" height="13" rx="3" fill="#F4E8EF" />
   </g>
 
-  <text x="48" y="288" class="subtitle">64 active days · updated Nov 25, 2026</text>
+  <text x="48" y="288" class="subtitle">64 active days · updated Nov 26, 2026</text>
   <g transform="translate(932 278)">
     <text x="0" y="11" class="legend">Less</text>
     <rect x="38" y="0" width="13" height="13" rx="3" fill="#F4E8EF" />
